@@ -17,7 +17,7 @@
 
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales view data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
-![DAshboard](bar plot.PNG)
+![Dashboard](bar plot.PNG)
 
 ![bar plot](https://github.com/Tolutim/Documenting_Analysis/assets/104212227/643f3fb4-c8bd-4525-91e0-8ed7aabf26c8)
 
